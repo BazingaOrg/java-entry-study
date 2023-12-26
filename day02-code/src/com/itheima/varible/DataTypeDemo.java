@@ -1,3 +1,5 @@
+package com.itheima.varible;
+
 public class DataTypeDemo {
     /*
         数据类型：

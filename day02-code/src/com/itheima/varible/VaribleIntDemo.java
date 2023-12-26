@@ -1,3 +1,5 @@
+package com.itheima.varible;
+
 public class VaribleIntDemo {
     public static void main(String[] args) {
         int salary = 12000;

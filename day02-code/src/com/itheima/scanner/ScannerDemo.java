@@ -1,3 +1,5 @@
+package com.itheima.scanner;
+
 import java.util.Scanner;
 /*
     int age = sc.nextInt() 从键盘录入整数，并使用 int 类型变量接收

@@ -1,3 +1,5 @@
+package com.itheima.operate;
+
 public class OperateDemo {
     /*
         算术运算符：

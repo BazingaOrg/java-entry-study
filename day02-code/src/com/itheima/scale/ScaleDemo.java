@@ -1,3 +1,5 @@
+package com.itheima.scale;
+
 public class ScaleDemo {
     /*
         计算机中进制的分类：

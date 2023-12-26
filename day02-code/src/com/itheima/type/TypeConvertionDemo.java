@@ -1,3 +1,5 @@
+package com.itheima.type;
+
 public class TypeConvertionDemo {
     public static void main(String[] args) {
         byte b1 = 3;
