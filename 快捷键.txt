@@ -1,0 +1,1 @@
+抽取方法：Command + Option + M （选中一段代码）
