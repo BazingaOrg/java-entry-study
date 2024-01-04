@@ -1,1 +1,2 @@
 抽取方法：Command + Option + M （选中一段代码）
+代码格式化：Command + Option = L
