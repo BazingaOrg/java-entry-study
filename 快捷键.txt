@@ -1,3 +1,7 @@
 抽取方法：Command + Option + M （选中一段代码）
 代码格式化：Command + Option = L
 扩展选区：Option + ⬆️
+重命名（重构）：Shift + F6
+查看变量、方法、类的使用地方：Option + Command + F7
+生成无参、有参的构造方法和getter、setter：Command + N
+使用判断语句包裹代码：Command + Option + T
