@@ -12,7 +12,7 @@ public class ArrayListDemo2 {
      *      public E remove(int index) : 根据索引做删除，返回被删除掉的元素
      *      public boolean remove(Object o) : 根据元素做删除，返回是否删除成功的状态
      * 3. 改：
-     *      public E set(int index, E element) : 修改指定索引位置，为对应的元素，返回呗覆盖掉的元素
+     *      public E set(int index, E element) : 修改指定索引位置，为对应的元素，返回被覆盖掉的元素
      * 4. 查：
      *      public E get(int index) : 根据索引，获取集合中的元素
      *      public int size() : 获取集合中的元素的个数
